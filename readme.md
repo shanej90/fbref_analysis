@@ -18,3 +18,4 @@ The original source for the data is FBref. I use Python to scrape data from the 
 [FBref](https://fbref.com/en)
 [NovyPro](https://www.novypro.com/)
 [ScraperFC](https://github.com/oseymour/ScraperFC/)
+[ScraperFC docs](https://scraperfc.readthedocs.io/en/latest/index.html)
