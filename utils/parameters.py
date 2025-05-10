@@ -8,7 +8,7 @@ from ScraperFC import FBref
 ### PARAMATERS
 
 #leagues
-leagues = ["Big 5 combined"]
+leagues = ["Bundesliga","EPL", "La Liga", "Ligue 1", "Serie A"]
 
 #seasons
 fbr = FBref()
